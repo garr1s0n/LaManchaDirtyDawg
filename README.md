@@ -6,4 +6,4 @@ The inaugural running of the Dirty Dog Race to Rescue 5k Obstacle Course Race is
 
 [Click Here for Build Preview](https://garr1s0n.github.io/LaManchaDirtyDawg/)
 
-* **NOTE:** Build preview link not guaranteed to work as build is still in progress.*
+***NOTE:*** *Build preview link not guaranteed to work as build is still in progress.*
