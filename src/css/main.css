@@ -97,11 +97,24 @@ textarea {
    Author's custom styles
    ========================================================================== */
 
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,400i,700,700i|Roboto:400,700');
 
+body {
+    font-family: 'Open Sans', sans-serif; 
+}
 
+.contentArea { 
+    max-width: 60em;
+    margin-left: auto;
+    margin-right: auto;
+}
 
-
-
+h1 { 
+    font-family: 'Robot', sans-serif;
+    font-size: 2em;
+    font-weight: 700;
+    text-align: center;
+}
 
 
 
